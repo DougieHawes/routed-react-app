@@ -1,0 +1,16 @@
+.navbar,
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    padding: 7px 2%;
+
+    .navbar-title {
+        h1 {
+            cursor: pointer;
+            font-size: 70px;
+        }
+    }
+}

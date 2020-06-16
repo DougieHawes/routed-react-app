@@ -1,0 +1,19 @@
+.navbar,
+.nav-links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.navbar {
+  padding: 7px 2%;
+}
+
+.navbar .navbar-title h1 {
+  cursor: pointer;
+  font-size: 70px;
+}
+/*# sourceMappingURL=style.css.map */
